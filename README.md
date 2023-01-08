@@ -1,2 +1,5 @@
-# EveryDayProject
-매일 찍은 사진을 다양한 형태로 변형하는 프로젝트입니다. 100장의 사진 -> 1장의 사진, 1편의 동영상. 등등.
+# AsTimeGoes
+시간이 흐르면서 변하는 모습을 찍은 사진들을 동영상으로 변환하는 프로젝트입니다.
+This project is about converting many daily pictures to video so you can see the change as time goes by.
+
+Python, OpenCV
